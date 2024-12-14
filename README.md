@@ -43,7 +43,7 @@ Hi, I'm Hael Alhsen! I'm a Senior Software Engineer and Mobile Apps Team Lead ba
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p>
@@ -58,7 +58,7 @@ Hi, I'm Hael Alhsen! I'm a Senior Software Engineer and Mobile Apps Team Lead ba
 </p>
 
 ---
-
+-->
 <p align="center"> <img src="https://profile-counter.glitch.me/{haelalhsen}/count.svg" alt="haelalhsen" /> </p>
 
 <a href="https://github.com/haelalhsen#gh-dark-mode-only">
