@@ -21,7 +21,7 @@ Hi, I'm Hael Alhsen! I'm a Senior Software Engineer and Mobile Apps Team Lead ba
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://x.com/haelalhsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/hael-alhsen-7a6648179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/hael-alhsen-7a6648179/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
 </p>
 
 ---
